@@ -1,0 +1,15 @@
+/home/saint/Desktop/WorkFlowEngine/bin/Debug/net6.0/WorkFlowEngine
+/home/saint/Desktop/WorkFlowEngine/bin/Debug/net6.0/WorkFlowEngine.deps.json
+/home/saint/Desktop/WorkFlowEngine/bin/Debug/net6.0/WorkFlowEngine.runtimeconfig.json
+/home/saint/Desktop/WorkFlowEngine/bin/Debug/net6.0/WorkFlowEngine.dll
+/home/saint/Desktop/WorkFlowEngine/bin/Debug/net6.0/WorkFlowEngine.pdb
+/home/saint/Desktop/WorkFlowEngine/obj/Debug/net6.0/WorkFlowEngine.csproj.AssemblyReference.cache
+/home/saint/Desktop/WorkFlowEngine/obj/Debug/net6.0/WorkFlowEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/WorkFlowEngine/obj/Debug/net6.0/WorkFlowEngine.AssemblyInfoInputs.cache
+/home/saint/Desktop/WorkFlowEngine/obj/Debug/net6.0/WorkFlowEngine.AssemblyInfo.cs
+/home/saint/Desktop/WorkFlowEngine/obj/Debug/net6.0/WorkFlowEngine.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/WorkFlowEngine/obj/Debug/net6.0/WorkFlowEngine.dll
+/home/saint/Desktop/WorkFlowEngine/obj/Debug/net6.0/refint/WorkFlowEngine.dll
+/home/saint/Desktop/WorkFlowEngine/obj/Debug/net6.0/WorkFlowEngine.pdb
+/home/saint/Desktop/WorkFlowEngine/obj/Debug/net6.0/WorkFlowEngine.genruntimeconfig.cache
+/home/saint/Desktop/WorkFlowEngine/obj/Debug/net6.0/ref/WorkFlowEngine.dll
